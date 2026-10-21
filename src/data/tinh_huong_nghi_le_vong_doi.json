@@ -1,0 +1,991 @@
+[
+  {
+    "id": "NLVD-01",
+    "ten_tinh_huong": "Cúng Mụ đầy tháng (Lễ Đầy tháng) cho bé sơ sinh",
+    "ten_nghi_le": "Lễ Đầy tháng (Cúng Mụ)",
+    "giai_doan_vong_doi": "Sinh nở & Đầu đời",
+    "mo_ta_tinh_huong": "Gia đình vừa sinh con đầu lòng tròn 30 ngày, người mẹ và ông bà băn khoăn về mâm lễ cúng 12 Bà Mụ và 1 Bà Chúa Đầu thai, trình tự khấn vái và cách tính ngày cúng theo dân gian.",
+    "y_nghia_van_hoa": "Tạ ơn 12 Bà Mụ (nặn thai, bảo bọc thân thể) và 1 Bà Chúa Đầu thai đã chở che mẹ tròn con vuông; cầu chúc đứa trẻ hay ăn chóng lớn, bình an khỏe mạnh, được họ hàng chúc phúc.",
+    "dac_diem_nhan_dien": [
+      "Tổ chức khi bé tròn 1 tháng tuổi (thường tính lùi: gái lùi 2 ngày, trai lùi 1 ngày theo quan niệm 'gái hơn 2, trai hơn 1')",
+      "Có mâm cúng Mụ gồm 12 phần nhỏ và 1 phần lớn hơn",
+      "Nghi thức bắt miếng (khai hoa) cầu mong lời nói thơm tho, đoan trang, hòa nhã"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Chuẩn bị 12 chén chè nhỏ, 1 tô chè lớn; 12 đĩa xôi nhỏ, 1 đĩa xôi lớn; hoa quả tươi, hương trầm, trà rượu, trầu cau têm cánh phượng và nến.",
+      "Bước 2: Đặt bàn cúng trang trọng nơi thoáng đãng trong nhà, người lớn trong gia đình (cha mẹ hoặc ông bà) thắp hương và đọc bài văn khấn tạ ơn Tiên Nương Chư Vị.",
+      "Bước 3: Thực hiện nghi thức 'bắt miếng' (khai hoa): Bế bé trên tay, dùng cành hoa quét nhẹ qua miệng bé và đọc lời chúc phúc cát tường.",
+      "Bước 4: Người thân, họ hàng gửi lời mừng tuổi, trao quà hoặc phong bao đỏ cầu may và cùng dùng bữa tiệc mừng ấm áp."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Chuộng chè hoa cau hoặc chè đậu xanh, xôi vò hoặc xôi gấc hạt sen đỏ thắm.",
+      "mien_trung": "Thường cúng chè trôi nước (với bé gái) hoặc chè đậu trắng (với bé trai), mâm lễ mộc mạc thành tâm.",
+      "mien_nam": "Bé trai cúng chè đậu trắng (mong đỗ đạt, thanh khiết), bé gái cúng chè trôi nước (mong tình duyên suôn sẻ, tròn trịa); xôi gấc hoặc xôi tứ sắc."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Trẻ em 2016 & Luật Hộ tịch 2014",
+      "dieu_khoan": "Điều 12, 13 Luật Trẻ em 2016; Điều 15 Luật Hộ tịch 2014",
+      "noi_dung_ap_dung": "Mọi trẻ em khi sinh ra đều có quyền được khai sinh, có họ tên, quốc tịch và được gia đình chăm sóc sức khỏe. Nghi lễ cúng Mụ là tập quán gia đình tự nguyện, không được trì hoãn nghĩa vụ đăng ký khai sinh trong thời hạn 60 ngày kể từ ngày sinh.",
+      "hinh_thuc_xu_ly": "Không có chế tài xử phạt phong tục cúng Mụ; quy định đăng ký khai sinh đúng thời hạn theo Luật Hộ tịch.",
+      "phan_biet_phap_luat_phong_tuc": "Phong tục cúng Mụ mang tính chất văn hóa tâm linh tín ngưỡng dân gian gia đình; việc đăng ký khai sinh là nghĩa vụ và quyền lợi pháp lý bắt buộc của trẻ em trước Nhà nước."
+    },
+    "ton_trong_da_dang": "Tôn trọng sự đa dạng: Gia đình theo đạo Công giáo hoặc nếp sống mới có thể tổ chức tiệc mừng sinh nhật 1 tháng và làm lễ Rửa tội tại Nhà thờ, không bắt buộc phải sắm mâm cúng Mụ truyền thống."
+  },
+  {
+    "id": "NLVD-02",
+    "ten_tinh_huong": "Lễ đặt tên và chọn tên đệm cho con",
+    "ten_nghi_le": "Lễ Đặt Tên (Khai hoa đặt tên)",
+    "giai_doan_vong_doi": "Sinh nở & Đầu đời",
+    "mo_ta_tinh_huong": "Gia đình chuẩn bị đặt tên cho con, băn khoăn giữa tên truyền thống theo dòng họ, tên đệm ý nghĩa và các quy định pháp luật về đặt họ tên cho công dân Việt Nam.",
+    "y_nghia_van_hoa": "Cái tên gắn liền với vận mệnh cả cuộc đời của con người, gửi gắm ước vọng của cha mẹ về phẩm hạnh, tài năng, đạo đức và sự tiếp nối dòng họ tông tộc.",
+    "dac_diem_nhan_dien": [
+      "Thực hiện kết hợp trong lễ đầy tháng hoặc khi đăng ký khai sinh",
+      "Truyền thống kiêng kỵ đặt tên trùng với tên ông bà, tổ tiên, người đã khuất trong dòng tộc (kiêng phạm húy)"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Cha mẹ tham khảo ý kiến hai bên nội ngoại, đối chiếu gia phả dòng họ để tránh phạm húy tên tiền nhân.",
+      "Bước 2: Lựa chọn tên gọi có ý nghĩa nhân văn, hài hòa ngữ âm và phù hợp văn hóa dân tộc.",
+      "Bước 3: Thắp nén nhang trên bàn thờ gia tiên, báo cáo với tổ tiên về thành viên mới và cái tên chính thức được trao gửi.",
+      "Bước 4: Đến Ủy ban nhân dân cấp xã/phường làm thủ tục đăng ký khai sinh theo quy định pháp luật."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nghiêm ngặt trong việc kiêng phạm húy tên các cụ tổ 3-4 đời trong gia phả dòng họ.",
+      "mien_trung": "Hay dùng tên ghép chữ đệm phản ánh nhánh dòng tộc hoặc ước vọng nho nhã.",
+      "mien_nam": "Cởi mở, khoáng đạt, chuộng tên mang ý nghĩa thanh thản, may mắn, sung túc (Phước, Lộc, Trâm, Ngọc...)."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Bộ luật Dân sự 2015 & Luật Hộ tịch 2014",
+      "dieu_khoan": "Điều 26 Bộ luật Dân sự 2015",
+      "noi_dung_ap_dung": "Cá nhân có quyền có họ, tên. Họ, tên phải bằng tiếng Việt hoặc tiếng dân tộc thiểu số khác của Việt Nam; không đặt tên quá dài, khó sử dụng hoặc xâm phạm quyền của người khác.",
+      "hinh_thuc_xu_ly": "Cơ quan hộ tịch từ chối đăng ký nếu tên không phù hợp quy định pháp luật dân sự.",
+      "phan_biet_phap_luat_phong_tuc": "Tục kiêng phạm húy là quy ước văn hóa gia tộc; pháp luật quy định tiêu chuẩn tên gọi hợp pháp về ký tự và tiếng Việt."
+    },
+    "ton_trong_da_dang": "Tôn trọng quyền tự do lựa chọn tên gọi của cha mẹ, hài hòa giữa truyền thống dòng họ và nguyện vọng cá nhân."
+  },
+  {
+    "id": "NLVD-03",
+    "ten_tinh_huong": "Lễ Thôi Nôi (đầy 1 tuổi) và tục bốc đồ đoán nghề",
+    "ten_nghi_le": "Lễ Thôi Nôi (Mừng Tròn 1 Tuổi)",
+    "giai_doan_vong_doi": "Sinh nở & Đầu đời",
+    "mo_ta_tinh_huong": "Bé tròn 12 tháng tuổi, gia đình tổ chức lễ thôi nôi (bỏ nôi) và đặt mâm đồ vật gồm sách vở, bút, gương lược, tiền, ống nghe bác sĩ... để bé tự bốc, băn khoăn liệu đây có phải mê tín không.",
+    "y_nghia_van_hoa": "Đánh dấu mốc bé từ nằm nôi chuyển sang nằm giường, chúc mừng bé vượt qua năm đầu đời khỏe mạnh; tục bốc đồ mang tính trò chơi dân gian hướng nghiệp vui tươi, gửi gắm hy vọng tương lai.",
+    "dac_diem_nhan_dien": [
+      "Tổ chức đúng ngày sinh nhật tròn 1 tuổi âm lịch hoặc dương lịch của bé",
+      "Mâm cúng gồm lễ vật tạ ơn Mụ Bà và Thần Đất",
+      "Mâm đồ vật 'chọn nghề tương lai' để bé tự tay chọn món đầu tiên"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Sắp mâm lễ tạ ơn Trời Đất, tổ tiên và 12 Bà Mụ (xôi chè, gà luộc hoặc heo quay, hoa quả, nến).",
+      "Bước 2: Gia trưởng hoặc cha mẹ thắp hương khấn tạ và cầu xin bình an, thông minh sáng dạ cho bé.",
+      "Bước 3: Chuẩn bị khay đồ vật (sách, bút, máy tính, tiền, micro, tai nghe, đồ chơi công nghệ...), đặt bé vào giữa để bé tự do với lấy món đồ đầu tiên.",
+      "Bước 4: Mọi người trong gia đình vỗ tay chúc mừng, diễn giải ý nghĩa tốt đẹp của món đồ và tặng quà chúc phúc."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nặng về phần lễ cúng gia tiên, gia đình quây quần sum họp thân mật.",
+      "mien_trung": "Thường có thêm chén cháo gạo nếp nấu đậu xanh, gà luộc chéo cánh dâng bàn thờ.",
+      "mien_nam": "Tục thôi nôi cực kỳ phổ biến và rộn ràng, mâm đồ chơi bốc đồ rất phong phú và hiện đại."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Quy ước nếp sống văn minh cộng đồng",
+      "dieu_khoan": "Không áp dụng chế tài pháp luật",
+      "noi_dung_ap_dung": "Hoạt động mang tính tập quán sinh hoạt gia đình lành mạnh, trò chơi dân gian không gây hại, không có yếu tố trục lợi lừa đảo.",
+      "hinh_thuc_xu_ly": "Không có chế tài xử phạt; khuyến khích tổ chức vui tươi, tiết kiệm và an toàn vệ sinh thực phẩm.",
+      "phan_biet_phap_luat_phong_tuc": "Tục bốc đồ hoàn toàn là trò chơi biểu trưng dân gian, không phải là căn cứ pháp lý hay khoa học để định đoạt nghề nghiệp tương lai của trẻ."
+    },
+    "ton_trong_da_dang": "Mỗi gia đình có thể tự do thêm bớt đồ vật bốc theo sở thích hoặc chọn phong cách tổ chức sinh nhật hiện đại."
+  },
+  {
+    "id": "NLVD-04",
+    "ten_tinh_huong": "Lễ Mừng tuổi thành niên (Trưởng thành 18 tuổi)",
+    "ten_nghi_le": "Lễ Trưởng Thành (Thành Nhân)",
+    "giai_doan_vong_doi": "Trưởng thành & Lập nghiệp",
+    "mo_ta_tinh_huong": "Thanh niên tròn 18 tuổi, gia đình muốn tổ chức một nghi thức trang trọng để nhắc nhở con về trách nhiệm công dân, đạo hiếu phụng dưỡng cha mẹ và quyền tự quyết cuộc đời.",
+    "y_nghia_van_hoa": "Thời xưa là Lễ Quán Lễ (cho nam) hoặc Cập Kê (cho nữ). Thời nay là dấu mốc người trẻ chính thức trở thành công dân đầy đủ năng lực hành vi, tiếp nối gia phong và gánh vác tương lai.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra khi người trẻ chạm mốc 18 tuổi",
+      "Báo cáo bàn thờ gia tiên về sự trưởng thành của con cháu",
+      "Lời căn dặn và chúc phúc từ cha mẹ, ông bà về đạo đức và lẽ sống"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Con cháu cùng cha mẹ dọn dẹp bàn thờ gia tiên, chuẩn bị mâm hoa quả và thắp nén hương thơm.",
+      "Bước 2: Người trẻ đứng trước bàn thờ gia tiên, lắng nghe cha mẹ nhắc nhở về nguồn cội và gia phong dòng họ.",
+      "Bước 3: Người trẻ dâng trà cho ông bà, cha mẹ để bày tỏ lòng biết ơn công sinh thành dưỡng dục suốt 18 năm.",
+      "Bước 4: Gia đình trao món quà kỷ niệm (sách hay, bút quý hoặc chiếc đồng hồ ghi nhớ thời gian) và cùng dùng bữa cơm gia đình."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Đề cao lời răn dạy gia phong, tính tự lập và tôn trọng trật tự bề trên dưới.",
+      "mien_trung": "Thường gắn với lễ tạ ơn tổ tiên tại nhà thờ họ hoặc từ đường gia tộc.",
+      "mien_nam": "Tổ chức ấm áp, phóng khoáng, khuyến khích người trẻ tự tin bước vào giảng đường hay học nghề."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Bộ luật Dân sự 2015 & Hiến pháp 2013",
+      "dieu_khoan": "Điều 20, 21 Bộ luật Dân sự 2015",
+      "noi_dung_ap_dung": "Người từ đủ mười tám tuổi trở lên là người thành niên, có năng lực hành vi dân sự đầy đủ, có quyền bầu cử và chịu trách nhiệm pháp lý trước Nhà nước.",
+      "hinh_thuc_xu_ly": "Pháp lý công nhận tư cách công dân thành niên; nghi lễ gia đình là hoạt động bồi dưỡng nhân cách tự nguyện.",
+      "phan_biet_phap_luat_phong_tuc": "Pháp luật quy định độ tuổi thành niên 18 tuổi gắn liền với quyền và nghĩa vụ công dân; nghi thức gia đình mang tính biểu tượng giáo dục truyền thống."
+    },
+    "ton_trong_da_dang": "Tôn trọng quyền tự do cá nhân, quyền tự quyết ngành nghề và lối sống của người trẻ tuổi."
+  },
+  {
+    "id": "NLVD-05",
+    "ten_tinh_huong": "Lễ Khai bút đầu xuân và cầu may mắn mùa thi cử",
+    "ten_nghi_le": "Lễ Khai Bút Đầu Năm (Cầu Trí Tuệ)",
+    "giai_doan_vong_doi": "Trưởng thành & Lập nghiệp",
+    "mo_ta_tinh_huong": "Sĩ tử chuẩn bị bước vào các kỳ thi chuyển cấp hoặc đại học quan trọng, gia đình thực hiện tục khai bút đầu năm vào dịp Tết, băn khoăn về văn khấn và cách thực hiện đúng thuần phong mỹ tục.",
+    "y_nghia_van_hoa": "Tôn vinh truyền thống hiếu học, tôn sư trọng đạo của dân tộc; khởi đầu một năm mới chăm chỉ, khai thông trí tuệ, đề cao sự nỗ lực rèn luyện của bản thân thay vì ỷ lại thần thánh.",
+    "dac_diem_nhan_dien": [
+      "Thực hiện vào những ngày đầu năm mới (mùng 1, mùng 2, mùng 3 Tết) hoặc trước kỳ thi",
+      "Viết những dòng chữ ý nghĩa đầu tiên (câu đối, danh ngôn, mục tiêu học tập)",
+      "Tâm thế trang nghiêm, thanh tịnh"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Lau dọn bàn học gọn gàng, chuẩn bị giấy trắng và bút mực tinh tươm.",
+      "Bước 2: Thắp nén tâm hương bàn thờ gia tiên, thành tâm kính cáo tổ tiên phù hộ cho tâm sáng trí bền.",
+      "Bước 3: Ngồi ngay ngắn tại bàn học, viết những dòng chữ đầu tiên về ước nguyện học vấn, câu đối tri thức hoặc bài thơ ý nghĩa.",
+      "Bước 4: Đọc lại những dòng đã viết, tự nhắc nhở bản thân kiên trì rèn luyện và bắt đầu kế hoạch học tập năm mới."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Rất phổ biến, thường gắn với tục xin chữ thầy đồ tại Văn Miếu - Quốc Tử Giám hoặc đền thờ danh nhân.",
+      "mien_trung": "Thường xin chữ nho hoặc chữ quốc ngữ tại Văn Thánh Huế hoặc chùa chiền đầu xuân.",
+      "mien_nam": "Chuộng viết các chữ may mắn như 'Đỗ Đạt', 'Thành Công', 'Trí', 'Đức' tại phố ông đồ Nhà văn hóa Thanh Niên."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Nghị định 38/2021/NĐ-CP & Luật Giáo dục 2019",
+      "dieu_khoan": "Điều 14 Nghị định 38/2021/NĐ-CP",
+      "noi_dung_ap_dung": "Bảo vệ truyền thống hiếu học; nghiêm cấm các hành vi mê tín dị đoan như bán 'bùa thi cử', bói toán điểm số gây hoang mang hoặc trục lợi bất chính.",
+      "hinh_thuc_xu_ly": "Phạt tiền từ 3.000.000đ đến 5.000.000đ đối với hành vi kinh doanh mê tín dị đoan, buôn bùa ngải lừa dối sĩ tử.",
+      "phan_biet_phap_luat_phong_tuc": "Khai bút là mỹ tục giáo dục tinh thần; mê tín buôn bán bùa thi là hành vi vi phạm pháp luật cần bài trừ."
+    },
+    "ton_trong_da_dang": "Tôn trọng các hình thức cầu nguyện khác nhau: Học sinh Công giáo có thể cầu xin ơn Chúa Thánh Thần soi sáng trí khôn; người không theo tôn giáo tập trung vào kế hoạch ôn luyện khoa học."
+  },
+  {
+    "id": "NLVD-06",
+    "ten_tinh_huong": "Lễ Báo công gia tiên khi thi đỗ đại học hoặc tốt nghiệp",
+    "ten_nghi_le": "Lễ Cáo Yết Báo Công Đỗ Đạt",
+    "giai_doan_vong_doi": "Trưởng thành & Lập nghiệp",
+    "mo_ta_tinh_huong": "Con cháu thi đỗ đại học hoặc tốt nghiệp ra trường, cha mẹ đưa con về quê dâng hương tại bàn thờ gia tiên và nhà thờ họ để tạ ơn công đức tổ tiên.",
+    "y_nghia_van_hoa": "Thể hiện lòng biết ơn cội nguồn sâu sắc: Thành quả học vấn hôm nay có được nhờ phúc đức tổ tiên, công dưỡng dục của cha mẹ và sự dạy dỗ của thầy cô; nhắc nhở không tự cao tự đại.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra khi nhận giấy báo đỗ hoặc nhận bằng tốt nghiệp",
+      "Dâng lễ vật mộc mạc (hoa quả, gà xôi, xôi gấc) cùng tấm bằng tốt nghiệp/giấy báo danh",
+      "Người học thắp hương cúi lạy báo cáo thành tích"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Chuẩn bị mâm hoa quả tươi, đĩa xôi nếp thơm, bình hoa tươi và thắp nến sáng bàn thờ.",
+      "Bước 2: Đặt trang trọng giấy báo trúng tuyển hoặc bằng tốt nghiệp bên cạnh lư hương.",
+      "Bước 3: Gia trưởng và con cháu thắp hương, đọc lời khấn tạ ơn tiên tổ đã phù hộ độ trì và soi đường dẫn lối.",
+      "Bước 4: Con cháu hứa trước bàn thờ tiếp tục tu dưỡng đạo đức, đem tri thức phụng sự quê hương đất nước."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nghi lễ trang trọng tại nhà thờ dòng họ, ghi danh người đỗ đạt vào sổ vàng khuyến học của gia tộc.",
+      "mien_trung": "Thắp hương tại từ đường làng xóm, báo cáo với các bậc trưởng lão tộc họ.",
+      "mien_nam": "Gia đình làm mâm cơm sum họp ấm cúng mời họ hàng nội ngoại cùng chung vui."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Phong tục gia đình truyền thống",
+      "dieu_khoan": "Không có chế tài pháp luật",
+      "noi_dung_ap_dung": "Sinh hoạt văn hóa đạo lý gia đình lành mạnh, khuyến học khuyến tài.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Phong tục tri ân thuần túy mang tính gia đình."
+    },
+    "ton_trong_da_dang": "Mọi thành quả đều xuất phát từ nỗ lực tự thân và sự chăm lo của gia đình, không phân biệt thành thị hay nông thôn."
+  },
+  {
+    "id": "NLVD-07",
+    "ten_tinh_huong": "Lễ Cúng Khai Trương cửa hàng, văn phòng khởi nghiệp",
+    "ten_nghi_le": "Lễ Khai Trương Khởi Nghiệp",
+    "giai_doan_vong_doi": "Trưởng thành & Lập nghiệp",
+    "mo_ta_tinh_huong": "Thanh niên trẻ bắt đầu khởi nghiệp mở văn phòng kinh doanh hoặc cửa hàng buôn bán, muốn làm lễ cúng khai trương để cầu công việc hanh thông, mua may bán đắt.",
+    "y_nghia_van_hoa": "Tế lễ Thổ Địa, Thần Tài và các vị tiền chủ mảnh đất; cầu chúc sự hòa hợp địa lợi nhân hòa, kinh doanh chân chính, mang lại lợi ích cho cộng đồng.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra vào ngày đầu tiên mở cửa hoạt động",
+      "Bàn lễ cúng đặt trước cửa hàng hoặc sảnh chính",
+      "Mâm cúng ngũ quả, hoa tươi, xôi gà hoặc heo quay, rượu trà"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Dọn dẹp cơ sở kinh doanh khang trang, sạch sẽ, chuẩn bị bàn lễ vật trang nhã.",
+      "Bước 2: Chủ cơ sở thắp nến, dâng hương và đọc bài văn khấn tạ thổ địa thần linh, cầu chúc kinh doanh phát đạt, trung thực.",
+      "Bước 3: Đợi tàn tuần hương, vái tạ và hóa vàng mã một lượng tượng trưng (hạn chế tối đa để phòng hỏa hoạn).",
+      "Bước 4: Mở cửa đón người khách đầu tiên (chọn người xởi lởi, vui vẻ 'mở hàng') và chúc tụng hợp tác."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Chuộng xôi gấc gà luộc, chú trọng xem ngày giờ lành xuất hành.",
+      "mien_trung": "Có mâm cúng Thần Tài - Thổ Địa gồm nem chả, trái cây tươi và nến sáng.",
+      "mien_nam": "Rất coi trọng tục cúng Thần Tài - Thổ Địa, thường có đĩa thịt heo quay bánh hỏi và mâm trái cây 'Cầu - Vừa - Đủ - Xài'."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Doanh nghiệp 2020 & Luật Phòng cháy chữa cháy",
+      "dieu_khoan": "Điều 27 Luật Doanh nghiệp 2020; Luật PCCC 2001 (sửa đổi 2013)",
+      "noi_dung_ap_dung": "Việc kinh doanh bắt buộc phải đăng ký kinh doanh và bảo đảm an toàn PCCC khi thắp hương, đốt vàng mã. Cấm đốt vàng mã tràn lan nơi công cộng gây cháy nổ.",
+      "hinh_thuc_xu_ly": "Phạt tiền từ 2.000.000đ đến 5.000.000đ nếu vi phạm an toàn phòng cháy trong quá trình thắp hương, đốt vàng mã.",
+      "phan_biet_phap_luat_phong_tuc": "Cúng khai trương là phong tục tín ngưỡng tự nguyện; giấy phép đăng ký kinh doanh và an toàn PCCC là quy định pháp luật bắt buộc."
+    },
+    "ton_trong_da_dang": "Kinh doanh thành công cốt ở chữ Tín, chất lượng sản phẩm và sự nỗ lực; nghi lễ chỉ là điểm tựa tinh thần chúc lành."
+  },
+  {
+    "id": "NLVD-08",
+    "ten_tinh_huong": "Lễ Tạ từ gia tiên trước khi xuất hành đi xa làm ăn, du học",
+    "ten_nghi_le": "Lễ Xuất Hành Tạ Từ Gia Tiên",
+    "giai_doan_vong_doi": "Trưởng thành & Lập nghiệp",
+    "mo_ta_tinh_huong": "Người trẻ chuẩn bị đi xuất khẩu lao động, du học nước ngoài hoặc chuyển nơi cư trú đến vùng đất mới, gia đình làm lễ thắp hương tổ tiên để cầu thượng lộ bình an.",
+    "y_nghia_van_hoa": "Cột mốc giã từ quê hương, nhắc nhở con người dù đi bất cứ nơi đâu trên thế giới cũng luôn nhớ về gốc tích cội nguồn, giữ gìn nhân cách và tự hào dân tộc.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra trước ngày khởi hành 1-2 ngày",
+      "Thắp hương bàn thờ gia tiên tư gia",
+      "Cha mẹ trao cho con kỷ vật hoặc nắm đất quê hương tượng trưng"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Chuẩn bị mâm hoa quả, trầu cau, nước sạch thắp hương bàn thờ.",
+      "Bước 2: Con cháu cùng cha mẹ đứng trước bàn thờ, thắp nhang và thành tâm báo cáo ngày giờ xuất hành, nơi sắp đến.",
+      "Bước 3: Cha mẹ dặn dò những lời tâm huyết về đạo làm người, giữ gìn sức khỏe nơi đất khách quê người.",
+      "Bước 4: Cả gia đình cùng ăn bữa cơm chia tay ấm áp trong tình yêu thương."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nhiều nơi có tục mẹ bọc một nắm đất quê hương hoặc nhúm muối mang theo để giữ hồn quê.",
+      "mien_trung": "Thắp nén hương tại nhà thờ họ để chào họ hàng tộc biểu.",
+      "mien_nam": "Gia đình tiễn chân thân tình, chúc nhau 'chân cứng đá mềm', mã đáo thành công."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Xuất cảnh, nhập cảnh của công dân Việt Nam 2019",
+      "dieu_khoan": "Điều 33 Luật Xuất cảnh, nhập cảnh 2019",
+      "noi_dung_ap_dung": "Công dân xuất cảnh hợp pháp phải có hộ chiếu, thị thực (nếu nước sở tại yêu cầu) và không thuộc diện bị cấm xuất cảnh.",
+      "hinh_thuc_xu_ly": "Tuân thủ pháp luật xuất nhập cảnh của Việt Nam và quốc tế.",
+      "phan_biet_phap_luat_phong_tuc": "Nghi lễ tạ từ là tâm lý gia đình; hồ sơ giấy tờ pháp lý là điều kiện bắt buộc để xuất cảnh."
+    },
+    "ton_trong_da_dang": "Tôn trọng quyết định mưu sinh và phát triển nghề nghiệp của mỗi cá nhân."
+  },
+  {
+    "id": "NLVD-09",
+    "ten_tinh_huong": "Lễ Dạm Ngõ (Chạm ngõ) khởi đầu hôn nhân",
+    "ten_nghi_le": "Lễ Dạm Ngõ (Tiếp Lời Khởi Hôn)",
+    "giai_doan_vong_doi": "Hôn nhân & Gia đình",
+    "mo_ta_tinh_huong": "Đôi nam nữ tìm hiểu chín muồi, nhà trai muốn sang nhà gái gặp gỡ chính thức để xin phép cho đôi trẻ qua lại công khai và bàn chuyện cưới xin.",
+    "y_nghia_van_hoa": "Nghi thức mở đầu trong ba lễ cưới chính; hai bên gia đình chính thức biết mặt, tạo sự tin cậy, tôn trọng nhà gái và đặt nền móng hòa thuận thông gia.",
+    "dac_diem_nhan_dien": [
+      "Gặp gỡ nội bộ thân mật, thành phần gồm cha mẹ và người thân cận",
+      "Lễ vật đơn sơ: Trầu cau, chè thuốc, rượu trắng, bánh phu thê",
+      "Không yêu cầu rạp cưới linh đình"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Nhà trai chọn ngày giờ thuận tiện, thông báo trước để nhà gái dọn dẹp nhà cửa đón tiếp.",
+      "Bước 2: Phái đoàn nhà trai mang khay lễ sang nhà gái, đại diện nhà trai phát biểu lý do và đặt lời thưa chuyện.",
+      "Bước 3: Đại diện nhà gái nhận lời, đặt lễ vật lên bàn thờ gia tiên và dắt đôi trẻ thắp hương báo cáo tổ tiên.",
+      "Bước 4: Hai bên gia đình bàn bạc sơ bộ về phong tục, ngày ăn hỏi và ngày cưới, dùng bữa cơm thân mật."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Gọi là Lễ Dạm ngõ; lễ vật nhất thiết phải có cơi trầu têm cánh phượng và hộp chè mộc thơm.",
+      "mien_trung": "Thường gọi là Lễ Đi nói; rất mộc mạc, chỉ cần khay trầu cau và chai rượu nhỏ.",
+      "mien_nam": "Gọi là Lễ Xem mặt; không khí vui vẻ, thoải mái, cởi mở bàn tính chuyện tương lai."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Hôn nhân và Gia đình 2014",
+      "dieu_khoan": "Điều 8 Luật Hôn nhân và Gia đình 2014",
+      "noi_dung_ap_dung": "Hôn nhân phải dựa trên nguyên tắc tự nguyện, tiến bộ, nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi. Nghi lễ dạm ngõ không làm phát sinh quan hệ vợ chồng hợp pháp nếu chưa đăng ký kết hôn.",
+      "hinh_thuc_xu_ly": "Nghi lễ văn hóa tự nguyện; việc đăng ký kết hôn tại UBND cấp xã mới có giá trị pháp lý công nhận quan hệ vợ chồng.",
+      "phan_biet_phap_luat_phong_tuc": "Dạm ngõ là tập quán gia đình; giấy chứng nhận kết hôn do cơ quan nhà nước cấp mới là căn cứ pháp lý."
+    },
+    "ton_trong_da_dang": "Khuyến khích tổ chức đơn giản, ấm cúng, tránh phô trương hình thức tốn kém."
+  },
+  {
+    "id": "NLVD-10",
+    "ten_tinh_huong": "Lễ Ăn Hỏi và số lượng mâm tráp sính lễ 3 miền",
+    "ten_nghi_le": "Lễ Ăn Hỏi (Lễ Đính Hôn)",
+    "giai_doan_vong_doi": "Hôn nhân & Gia đình",
+    "mo_ta_tinh_huong": "Nhà trai chuẩn bị tráp sính lễ sang nhà gái để làm lễ ăn hỏi, băn khoăn về quy tắc số tráp lẻ hay chẵn, lễ vật bên trong và thủ tục lại quả.",
+    "y_nghia_van_hoa": "Khẳng định sự đính ước chính thức của hai họ trước cộng đồng; nhà trai bày tỏ sự trân trọng biết ơn công lao sinh thành nuôi dưỡng con gái của nhà gái.",
+    "dac_diem_nhan_dien": [
+      "Đoàn bê tráp nam thanh nữ tú trang phục chỉnh tề (áo dài hoặc âu phục)",
+      "Trao nhận mâm tráp phủ khăn đỏ cát tường",
+      "Nghi thức thắp hương gia tiên nhà gái và tục chia đồ lại quả"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Đoàn nhà trai bưng mâm tráp đến nhà gái đúng giờ tốt, đội bê tráp hai bên trao nhận tráp và lì xì duyên.",
+      "Bước 2: Hai họ an tọa, đại diện nhà trai thưa gửi giới thiệu sính lễ, đại diện nhà gái đáp từ nhận lễ.",
+      "Bước 3: Mẹ cô dâu hoặc chú rể đưa cô dâu ra mắt hai họ; chú rể và cô dâu cùng dâng hương lên bàn thờ tổ tiên nhà gái.",
+      "Bước 4: Nhà gái trích một phần sính lễ để 'lại quả' cho nhà trai mang về (lưu ý: nắp tráp lại quả để ngửa, không xé cau bằng dao)."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Quy tắc: SỐ TRÁP LẺ (5, 7, 9, 11 tráp), nhưng SỐ LỄ VẬT TRONG TRÁP CHẴN (100 bánh cốm, 100 quả cau).",
+      "mien_trung": "Số tráp thường là SỐ CHẴN (4 hoặc 6 tráp), bắt buộc có tráp trầu cau, rượu trà và bánh phu thê gói lá dừa.",
+      "mien_nam": "Số tráp thường là SỐ CHẴN (6 tráp - Lộc, hoặc 8 tráp - Phát), luôn có cặp đèn cầy Long Phụng để làm lễ lên đèn."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Hôn nhân và Gia đình 2014 & Quyết định 308/2005/QĐ-TTg",
+      "dieu_khoan": "Điều 5 Luật HN&GĐ 2014; Quy chế nếp sống văn minh QĐ 308",
+      "noi_dung_ap_dung": "Nghiêm cấm hành vi yêu sách của cải trong kết hôn (thách cưới quá đáng nhằm cản trở hôn nhân). Khuyến khích sính lễ phù hợp hoàn cảnh kinh tế.",
+      "hinh_thuc_xu_ly": "Phạt tiền từ 3.000.000đ đến 5.000.000đ theo Điều 59 Nghị định 82/2020/NĐ-CP đối với hành vi yêu sách của cải trong kết hôn.",
+      "phan_biet_phap_luat_phong_tuc": "Sính lễ là biểu trưng đạo lý tôn trọng; nếu biến thành việc mua bán ép buộc tiền bạc là vi phạm pháp luật hôn nhân."
+    },
+    "ton_trong_da_dang": "Hai bên gia đình chủ động bàn bạc thống nhất số lượng tráp phù hợp hoàn cảnh, tuyệt đối không chê bai phong tục của nhau."
+  },
+  {
+    "id": "NLVD-11",
+    "ten_tinh_huong": "Đám cưới liên vùng miền Bắc - Nam: Dung hòa phong tục tráp chẵn lẻ",
+    "ten_nghi_le": "Hôn Lễ Thông Gia Liên Vùng (Bắc - Nam)",
+    "giai_doan_vong_doi": "Hôn nhân & Gia đình",
+    "mo_ta_tinh_huong": "Chú rể người Hà Nội (miền Bắc) cưới cô dâu người Cần Thơ (miền Nam). Nhà trai định chuẩn bị 7 tráp theo phong tục miền Bắc, nhưng nhà gái miền Nam lại kiêng số lẻ và chuộng 6 tráp kèm cặp đèn Long Phụng.",
+    "y_nghia_van_hoa": "Biểu tượng cho sự hòa hợp văn hóa dân tộc; tinh thần bao dung, tôn trọng dị biệt và đặt hạnh phúc của con cái lên trên sự câu nệ câu chữ.",
+    "dac_diem_nhan_dien": [
+      "Khoảng cách địa lý giữa hai gia đình xa xôi",
+      "Sự khác biệt về quan niệm số tráp và nghi thức cúng gia tiên",
+      "Cần sự thương lượng cởi mở và thiện chí từ trước"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Đôi trẻ làm cầu nối chia sẻ trước với bố mẹ hai bên về nét đặc trưng phong tục quê mình.",
+      "Bước 2: Trong lễ dạm ngõ hoặc qua điện thoại, đại diện nhà trai chủ động hỏi ý kiến nhà gái: 'Nhà gái chuộng số tráp và lễ vật thế nào để nhà trai chuẩn bị chu đáo?'.",
+      "Bước 3: Phương án dung hòa: Nhà trai chuẩn bị 6 tráp theo nguyện vọng nhà gái miền Nam, nhưng chọn các lễ vật tinh hoa của miền Bắc (chè Thái Nguyên, bánh cốm Hàng Than), kèm cặp đèn cầy Long Phụng số 2 hoặc 4.",
+      "Bước 4: Ngày cưới, hai họ cùng hoan hỷ cử hành nghi lễ, giới thiệu ý nghĩa tốt đẹp của phong tục từng miền cho quan khách."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Sẵn sàng linh hoạt chuyển từ 7 tráp sang 6 tráp để chiều lòng thông gia miền Nam.",
+      "mien_trung": "Lắng nghe và kết nối ôn hòa.",
+      "mien_nam": "Trân trọng sự tinh tế của nhà trai và hướng dẫn chu đáo nghi thức lên đèn bàn thờ gia tiên miền Nam."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Hôn nhân và Gia đình 2014 & Hiến pháp 2013",
+      "dieu_khoan": "Điều 2 Luật Hôn nhân và Gia đình 2014",
+      "noi_dung_ap_dung": "Xây dựng gia đình ấm no, tiến bộ, hạnh phúc; tôn trọng quyền tự do kết hôn của nam nữ không bị phân biệt bởi vùng miền hay dân tộc.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Mọi thỏa thuận về tráp cưới là sự tự nguyện của hai gia đình, pháp luật bảo hộ sự tự do thỏa thuận chính đáng."
+    },
+    "ton_trong_da_dang": "Không áp đặt quan niệm 'phong tục miền tôi mới là chuẩn mực', tôn vinh nét đẹp văn hóa giao thoa."
+  },
+  {
+    "id": "NLVD-12",
+    "ten_tinh_huong": "Nghi lễ thắp hương bàn thờ Gia Tiên trong ngày cưới",
+    "ten_nghi_le": "Lễ Gia Tiên Ngày Cưới",
+    "giai_doan_vong_doi": "Hôn nhân & Gia đình",
+    "mo_ta_tinh_huong": "Cô dâu chú rể bước vào giờ phút bái lạy bàn thờ tổ tiên trong ngày cưới, băn khoăn về thứ tự thắp hương, ai thắp trước, cô dâu chú rể vái mấy lạy theo đúng lễ nghi.",
+    "y_nghia_van_hoa": "Giờ phút thiêng liêng nhất của hôn lễ; trình diện đôi vợ chồng trẻ trước vong linh tiên tổ hai họ, thề nguyền chung thủy trăm năm và cầu xin tổ tiên chứng giám chở che.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra tại bàn thờ gia tiên nhà gái (lễ rước dâu) và nhà trai (lễ thành hôn)",
+      "Bàn thờ bài trí trang nghiêm, đủ hoa quả, đèn nến, trầu cau",
+      "Gia trưởng thắp nhang dẫn dắt"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Chủ hôn hoặc bố mẹ cô dâu/chú rể thắp 3 nén hương cắm vào bát nhang, vái báo cáo tổ tiên việc dựng vợ gả chồng cho con cái.",
+      "Bước 2: Chú rể và cô dâu đón nén nhang từ tay người lớn (hoặc đứng trang nghiêm chắp tay trước ngực).",
+      "Bước 3: Đôi tân lang - tân nương cùng thực hiện nghi thức vái lạy: Thường lạy 4 lạy trước bàn thờ tổ tiên (tượng trưng cho tứ thân phụ mẫu và bốn mùa cát tường).",
+      "Bước 4: Cô dâu chú rể quay sang cúi đầu tạ ơn cha mẹ đôi bên đã dày công nuôi dạy nên người."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Trang nghiêm, thành kính, bố mẹ dâng hương trước rồi trao nhang cho con cháu thắp.",
+      "mien_trung": "Có nghi thức châm nến tơ hồng đôi, đôi trẻ cùng cầm nến dâng lên bàn thờ.",
+      "mien_nam": "Tục 'Lễ Lên Đèn' cực kỳ trang trọng: Trưởng tộc châm cặp đèn cầy Long Phụng cắm vào chân nến bằng đồng trên bàn thờ."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Tập quán tín ngưỡng gia đình truyền thống",
+      "dieu_khoan": "Không áp dụng chế tài pháp luật",
+      "noi_dung_ap_dung": "Hoạt động tự do tín ngưỡng gia đình lành mạnh, bảo tồn bản sắc văn hóa dân tộc.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Lễ gia tiên là phong tục truyền thống văn hóa; không thay thế thủ tục ký tên vào sổ hộ tịch tại cơ quan nhà nước."
+    },
+    "ton_trong_da_dang": "Nếu một bên theo đạo Công giáo hoặc Tin lành, đôi trẻ đứng cúi đầu nghiêm trang tưởng nhớ tổ tiên trước bàn thờ gia tiên mà không cần thắp nhang (theo hướng dẫn mục vụ phù hợp)."
+  },
+  {
+    "id": "NLVD-13",
+    "ten_tinh_huong": "Nghi thức Rước Dâu và trao dâu nhận rể",
+    "ten_nghi_le": "Lễ Rước Dâu (Nghênh Hôn)",
+    "giai_doan_vong_doi": "Hôn nhân & Gia đình",
+    "mo_ta_tinh_huong": "Đoàn nhà trai sang đón dâu, mẹ chú rể trao vàng cưới cho cô dâu, mẹ cô dâu dặn dò con gái trước khi về nhà chồng và đoàn xe hoa đưa dâu về dinh.",
+    "y_nghia_van_hoa": "Chính thức đón nhận người con dâu mới vào gia đình và dòng họ; thể hiện sự trân trọng yêu thương của gia đình nhà chồng dành cho nàng dâu.",
+    "dac_diem_nhan_dien": [
+      "Có hoa cưới cầm tay của chú rể",
+      "Lễ trao trang sức cưới (nhẫn, kiềng, hoa tai vàng)",
+      "Khoảnh khắc xúc động khi người mẹ tiễn con gái xuất giá"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Chú rể cùng đoàn nhà trai mang hoa cưới vào phòng đón cô dâu ra mắt quan viên hai họ.",
+      "Bước 2: Mẹ chồng trao trang sức cưới cho nàng dâu (thể hiện sự trao của cải làm vốn gây dựng cơ nghiệp).",
+      "Bước 3: Mẹ đẻ trao quà hồi môn và căn dặn con gái đạo làm vợ, làm dâu hiền hiếu thảo.",
+      "Bước 4: Hai họ chúc mừng, chú rể dắt tay cô dâu ra xe hoa khởi hành về nhà trai trong tiếng pháo hoa chúc tụng (sử dụng pháo hoa hợp pháp của Bộ Quốc phòng)."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Mẹ đẻ thường không đi theo tiễn dâu đến nhà trai (tục xưa tránh cảnh bịn rịn), mẹ chồng đón dâu tại cổng.",
+      "mien_trung": "Thường rước dâu vào sáng sớm tinh mơ hoặc giờ hoàng đạo đã định.",
+      "mien_nam": "Cả bố mẹ đẻ có thể cùng đi đưa dâu sang nhà trai dự tiệc mừng, không khí vô cùng rộn rã."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Nghị định 137/2020/NĐ-CP về quản lý, sử dụng pháo",
+      "dieu_khoan": "Điều 17 Nghị định 137/2020/NĐ-CP",
+      "noi_dung_ap_dung": "Trong đám cưới chỉ được phép sử dụng pháo hoa không gây tiếng nổ do doanh nghiệp thuộc Bộ Quốc phòng sản xuất. Nghiêm cấm sử dụng pháo nổ trái phép.",
+      "hinh_thuc_xu_ly": "Phạt tiền từ 5.000.000đ đến 10.000.000đ đối với hành vi sử dụng các loại pháo nổ trái phép trong lễ cưới.",
+      "phan_biet_phap_luat_phong_tuc": "Phong tục chúc tụng rước dâu cần tuyệt đối tuân thủ pháp luật về an toàn trật tự và cấm đốt pháo nổ."
+    },
+    "ton_trong_da_dang": "Lễ vật trang sức cưới tùy thuộc hoàn cảnh kinh tế gia đình, không nên đặt nặng áp lực nợ nần phô trương."
+  },
+  {
+    "id": "NLVD-14",
+    "ten_tinh_huong": "Nghi thức dâng nến Tơ Hồng se duyên miền Trung",
+    "ten_nghi_le": "Lễ Tơ Hồng Se Duyên",
+    "giai_doan_vong_doi": "Hôn nhân & Gia đình",
+    "mo_ta_tinh_huong": "Trong đám cưới truyền thống xứ Huế và miền Trung, hai bên gia đình chuẩn bị bàn thờ Tơ Hồng ngoài sân với cặp nến đỏ để đôi vợ chồng dâng lễ tế Nguyệt Lão.",
+    "y_nghia_van_hoa": "Tạ ơn ông Tơ bà Nguyệt đã buộc sợi chỉ đỏ nhân duyên cho đôi lứa gặp gỡ và nên duyên vợ chồng; lời hứa son sắt trọn đời bên nhau dù gian nan trắc trở.",
+    "dac_diem_nhan_dien": [
+      "Bàn thờ lộ thiên đặt trước sân nhà",
+      "Cặp nến tơ hồng thắt sợi chỉ đỏ",
+      "Đôi vợ chồng cùng rót chén rượu hợp cẩn giao bôi"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Bày bàn lễ Tơ Hồng trước sân gồm hoa thơm, quả ngọt, chén trầu cau và cặp nến đỏ quấn chỉ tơ hồng.",
+      "Bước 2: Chủ hôn thắp hương khấn xin Nguyệt Lão thiên đình chứng giám mối duyên lành.",
+      "Bước 3: Cô dâu chú rể cùng cầm cặp nến thắp sáng, chắp tay thành kính vái trời đất bốn phương.",
+      "Bước 4: Hai vợ chồng chia nhau uống chung chén rượu hợp cẩn và ăn chung miếng trầu cau gắn kết."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nhiều nơi đã giản lược lễ Tơ Hồng, nhập chung vào lễ gia tiên trong nhà.",
+      "mien_trung": "Vẫn giữ gìn rất trang nghiêm, đậm chất thơ mộng và thiêng liêng xứ Huế.",
+      "mien_nam": "Biến chuyển thành nghi thức thắp cặp đèn cầy Long Phụng trên bàn thờ gia tiên."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Phong tục dân gian cổ truyền",
+      "dieu_khoan": "Không áp dụng",
+      "noi_dung_ap_dung": "Nghi thức biểu trưng tình cảm thủy chung son sắt.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Phong tục văn hóa lãng mạn nhân văn thuần túy."
+    },
+    "ton_trong_da_dang": "Nghi lễ mang tính tự nguyện của từng dòng họ, có thể làm hoặc giản lược tùy điều kiện thực tế."
+  },
+  {
+    "id": "NLVD-15",
+    "ten_tinh_huong": "Lễ Lại Mặt (Nhị hỷ) sau ngày cưới",
+    "ten_nghi_le": "Lễ Lại Mặt (Phản Bái / Nhị Hỷ)",
+    "giai_doan_vong_doi": "Hôn nhân & Gia đình",
+    "mo_ta_tinh_huong": "Sau ngày cưới 1 đến 3 ngày, đôi vợ chồng trẻ chuẩn bị lễ vật cùng nhau về thăm lại bố mẹ vợ, băn khoăn về ý nghĩa và lễ vật mang theo.",
+    "y_nghia_van_hoa": "Nhắc nhở đạo nghĩa: Lấy chồng không phải là dứt tình với cha mẹ đẻ; thể hiện lòng biết ơn của chàng rể với bố mẹ vợ và giúp cô dâu vơi đi nỗi nhớ nhà.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra sau ngày cưới 1 đến 3 ngày",
+      "Chỉ có đôi vợ chồng trẻ cùng về (hoặc có mẹ chồng đi cùng tùy nơi)",
+      "Lễ vật nhẹ nhàng: Giỏ hoa quả, bánh kẹo, con gà trống hoặc chai rượu"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Nhà trai chuẩn bị giỏ quà thơm thảo để đôi trẻ mang về nhà gái.",
+      "Bước 2: Vợ chồng trẻ đến nhà bố mẹ vợ, thắp hương bàn thờ gia tiên nhà gái báo cáo mọi sự cưới xin đã chu toàn.",
+      "Bước 3: Chàng rể trò chuyện, hỏi thăm sức khỏe bố mẹ vợ; cô dâu chia sẻ cảm xúc những ngày đầu về nhà chồng.",
+      "Bước 4: Bố mẹ vợ làm bữa cơm thân mật thiết đãi con rể và con gái, căn dặn hai con nhường nhịn yêu thương nhau."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Gọi là Lễ Lại mặt, thường diễn ra vào ngày thứ hai sau cưới; lễ vật chuộng đôi gà hoặc gói bánh.",
+      "mien_trung": "Thường diễn ra sau 3 ngày, gọi là Lễ Phản bái.",
+      "mien_nam": "Gọi là Lễ Phản bái; cha mẹ chồng có thể cùng sang nhà gái để cảm ơn và thắt chặt tình thông gia."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Tập quán đạo hiếu gia đình",
+      "dieu_khoan": "Không áp dụng",
+      "noi_dung_ap_dung": "Gìn giữ mối quan hệ gắn bó gia đình hai bên nội ngoại.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Tập quán ứng xử hiếu đạo nhân văn sâu sắc."
+    },
+    "ton_trong_da_dang": "Thời hiện đại nếu khoảng cách địa lý xa xôi (Bắc - Nam), có thể linh hoạt lại mặt vào dịp Tết hoặc kỳ nghỉ gần nhất."
+  },
+  {
+    "id": "NLVD-16",
+    "ten_tinh_huong": "Hôn lễ kết hợp giữa người Công giáo và người theo tập quán truyền thống",
+    "ten_nghi_le": "Hôn Lễ Hài Hòa Tôn Giáo (Bí Tích Hôn Phối & Gia Tiên)",
+    "giai_doan_vong_doi": "Hôn nhân & Gia đình",
+    "mo_ta_tinh_huong": "Một bên theo đạo Công giáo, một bên không theo tôn giáo (thờ cúng tổ tiên). Hai gia đình muốn cử hành lễ cưới vừa đúng phép đạo tại Nhà thờ, vừa trọn vẹn hiếu đạo bái lạy trước bàn thờ tổ tiên tại gia đình.",
+    "y_nghia_van_hoa": "Minh chứng cho tinh thần tự do tôn giáo và sự hòa hợp đức tin; kết hợp đức tin tôn giáo thiêng liêng với truyền thống đạo hiếu thờ cha kính mẹ của người Việt Nam.",
+    "dac_diem_nhan_dien": [
+      "Cử hành Thánh lễ Hôn phối tại Thánh đường Công giáo",
+      "Cử hành lễ gia tiên kính nhớ tổ tiên tại tư gia",
+      "Tôn trọng và đồng thuận giữa hai họ"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Đôi trẻ tham gia khóa học Giáo lý Hôn nhân tại giáo xứ và hoàn tất thủ tục đăng ký kết hôn dân sự tại UBND.",
+      "Bước 2: Cử hành Bí tích Hôn phối tại Nhà thờ với sự chứng kiến của linh mục và cộng đoàn.",
+      "Bước 3: Về tư gia, tiến hành nghi thức bái kính bàn thờ tổ tiên (theo Huấn thị Hội đồng Giám mục Việt Nam: người Công giáo được phép cúi đầu, thắp nhang tỏ lòng hiếu kính trước di ảnh tổ tiên).",
+      "Bước 4: Tổ chức tiệc mừng chung vui cùng hai họ trong không khí đầm ấm, tôn trọng đức tin của nhau."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Các giáo phận miền Bắc giữ gìn nếp sống đạo sốt sắng, lễ gia tiên tại gia rất trang trọng.",
+      "mien_trung": "Hài hòa, khiêm tốn và tôn kính sâu xa.",
+      "mien_nam": "Cởi mở, bà con lương giáo cùng dự tiệc cưới chúc mừng chan hòa thân thiết."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Tín ngưỡng, tôn giáo 2016 & Hiến pháp 2013",
+      "dieu_khoan": "Điều 24 Hiến pháp 2013; Điều 6 Luật Tín ngưỡng, tôn giáo 2016",
+      "noi_dung_ap_dung": "Mọi người có quyền tự do tín ngưỡng, tôn giáo. Các tôn giáo bình đẳng trước pháp luật. Không ai được phân biệt đối xử vì lý do tôn giáo trong hôn nhân.",
+      "hinh_thuc_xu_ly": "Pháp luật nghiêm cấm hành vi cản trở hôn nhân tự nguyện hoặc ép buộc từ bỏ tín ngưỡng tôn giáo trái ý muốn.",
+      "phan_biet_phap_luat_phong_tuc": "Pháp luật bảo đảm tự do tôn giáo; Huấn thị tôn giáo hướng dẫn nghi thức thực hành hòa hợp."
+    },
+    "ton_trong_da_dang": "Thái độ trung lập tuyệt đối, tôn trọng tự do lựa chọn tôn giáo của mỗi cá nhân trong hôn nhân."
+  },
+  {
+    "id": "NLVD-17",
+    "ten_tinh_huong": "Giờ phút lâm chung và nghi thức tắm gội (Mộc dục) cho người mất",
+    "ten_nghi_le": "Nghi Lễ Lâm Chung & Mộc Dục",
+    "giai_doan_vong_doi": "Hậu sự & Tang chế",
+    "mo_ta_tinh_huong": "Người thân tuổi cao sức yếu bước vào giờ phút hấp hối lâm chung, con cháu quây quần bối rối không biết cần chuẩn bị những việc gì để người ra đi thanh thản.",
+    "y_nghia_van_hoa": "Giây phút thiêng liêng tận hiếu cuối cùng của con cái; giúp người quá cố trút hơi thở cuối cùng trong thanh thản, ấm áp tình thân, được thanh sạch thể xác trước khi về với tổ tiên.",
+    "dac_diem_nhan_dien": [
+      "Con cháu tề tựu quanh giường người lâm chung",
+      "Nấu nước thơm ngũ vị hương (quế, hồi, sả, lá bưởi) để tắm gội",
+      "Thay y phục sạch sẽ, chỉnh trang ngay ngắn"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Giữ không gian yên tĩnh, con cháu túc trực động viên, lắng nghe di ngôn trăn trối (nếu có).",
+      "Bước 2: Khi người thân ngừng thở, dùng nước ấm nấu lá thơm (ngũ vị) lau rửa sạch sẽ thân thể (nghi thức Mộc dục).",
+      "Bước 3: Mặc y phục mới tinh tươm, chải tóc ngay ngắn, đi tất chân, đặt thi hài nơi thanh tịnh, đắp tấm vải phủ mặt.",
+      "Bước 4: Đặt một ngọn đèn dầu hoặc nến sáng nơi đầu giường, đặt bát cơm quả trứng (theo tục dân gian) hoặc đặt Thánh giá/hình Phật (theo tôn giáo), thông báo cho nội ngoại họ hàng."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nhiều gia đình hỏi han 'di ngôn', chuẩn bị nải chuối xanh hoặc đũa bông theo tục cũ.",
+      "mien_trung": "Trầm mặc, người thân thắp nhang trầm và niệm Phật hoặc cầu nguyện liên lỉ.",
+      "mien_nam": "Con cháu giữ bình tĩnh, tránh khóc than lớn tiếng ngay bên tai người hấp hối để họ nhẹ nhàng buông xả."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Khám bệnh, chữa bệnh 2023 & Luật Hộ tịch 2014",
+      "dieu_khoan": "Điều 80 Luật Khám chữa bệnh 2023; Điều 32 Luật Hộ tịch 2014",
+      "noi_dung_ap_dung": "Phải có Giấy báo tử do cơ sở y tế cấp (nếu mất tại bệnh viện) hoặc xác nhận của Trạm y tế/UBND (nếu mất tại nhà). Đăng ký khai tử trong thời hạn quy định.",
+      "hinh_thuc_xu_ly": "Bắt buộc làm thủ tục cấp Giấy báo tử và khai tử hợp pháp trước khi an táng/hỏa táng.",
+      "phan_biet_phap_luat_phong_tuc": "Nghi thức mộc dục là đạo hiếu tình thân; giấy báo tử là thủ tục pháp lý bắt buộc."
+    },
+    "ton_trong_da_dang": "Tôn trọng niềm tin tôn giáo của người mất: Cầu nguyện hồi hướng Phật giáo hoặc xức dầu cử hành Bí tích Công giáo."
+  },
+  {
+    "id": "NLVD-18",
+    "ten_tinh_huong": "Nghi thức Khâm Liệm, Nhập Quan và lập Bàn thờ linh",
+    "ten_nghi_le": "Lễ Khâm Liệm & Nhập Quan",
+    "giai_doan_vong_doi": "Hậu sự & Tang chế",
+    "mo_ta_tinh_huong": "Đến giờ lành nhập sự, ban tang lễ chuẩn bị đưa thi hài người quá cố vào quan tài (áo quan), quấn vải liệm và thiết lập bàn thờ linh.",
+    "y_nghia_van_hoa": "Bảo bọc thi hài người thân lần cuối trong cõi tạm; lập nơi trang trọng để thân nhân, bạn bè đến dâng hương tưởng niệm và cầu nguyện cho linh hồn an nghỉ.",
+    "dac_diem_nhan_dien": [
+      "Dùng vải liệm (đại liệm, tiểu liệm) quấn thi hài trang nghiêm",
+      "Đưa thi hài vào quan tài nhẹ nhàng, kính cẩn",
+      "Lập bàn thờ linh: Di ảnh, bát nhang mới, cặp đèn nến, hoa cúc trắng"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Đúng giờ hoàng đạo, con cháu quỳ hai bên, đội đạo tì thực hiện nghi thức khâm liệm thi hài cẩn trọng.",
+      "Bước 2: Khiêng thi hài nhập quan, chèn trà khô hoặc túi thơm để hút ẩm, đậy nắp quan tài.",
+      "Bước 3: Lập bàn thờ linh ngay phía trước linh cữu, đặt di ảnh người mất, cắm hoa tươi thanh khiết và thắp đôi nến sáng.",
+      "Bước 4: Trưởng nam hoặc người đại diện thắp nén nhang đầu tiên khai bàn thờ linh, bắt đầu lễ phát tang."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nghi thức nhập quan nghiêm cẩn, người lớn tuổi trong họ giám sát từng chi tiết.",
+      "mien_trung": "Có nghi lễ trị quan, dán bùa an vị hoặc kinh chú cầu bình an theo tập quán.",
+      "mien_nam": "Khâu khâm liệm do dịch vụ tang lễ chuyên nghiệp thực hiện chu đáo, hạn chế mùi và bảo đảm vệ sinh tuyệt đối."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Thông tư 02/2009/TT-BYT & Quyết định 308/2005/QĐ-TTg",
+      "dieu_khoan": "Quy chuẩn vệ sinh tang lễ Thông tư 02/2009/TT-BYT",
+      "noi_dung_ap_dung": "Thi hài phải được khâm liệm vào quan tài kín, đảm bảo không rò rỉ dịch, không gây ô nhiễm môi trường. Thời gian quàn thi hài tại nhà không quá 48 giờ (hoặc tối đa theo quy định y tế địa phương).",
+      "hinh_thuc_xu_ly": "Xử phạt vi phạm vệ sinh phòng dịch nếu để thi hài quá thời gian quy định gây ô nhiễm môi trường.",
+      "phan_biet_phap_luat_phong_tuc": "Phong tục khâm liệm phải tuân thủ nghiêm ngặt quy chuẩn vệ sinh dịch tễ y tế của Nhà nước."
+    },
+    "ton_trong_da_dang": "Gia đình có thể lựa chọn cử hành lễ khâm liệm theo nghi thức Phật giáo, Công giáo hoặc nghi thức đời sống mới văn minh."
+  },
+  {
+    "id": "NLVD-19",
+    "ten_tinh_huong": "Lễ Phát Tang và tiếp đón đoàn Phúng Viếng",
+    "ten_nghi_le": "Lễ Phát Tang & Lễ Viếng",
+    "giai_doan_vong_doi": "Hậu sự & Tang chế",
+    "mo_ta_tinh_huong": "Gia đình phát khăn tang cho con cháu và bắt đầu mở cửa đón bà con lối xóm, cơ quan bạn bè đến thắp hương chia buồn, băn khoăn về quy tắc ứng xử và nếp sống văn minh.",
+    "y_nghia_van_hoa": "Khăn tang biểu thị sự đồng lòng chịu tang, ghi nhớ công ơn trời biển; lễ viếng là dịp cộng đồng sẻ chia mất mát, an ủi tang quyến, thể hiện nghĩa tử là nghĩa tận.",
+    "dac_diem_nhan_dien": [
+      "Khăn tang trắng phát theo thứ bậc huyết thống (con cái, dâu rể, cháu chắt)",
+      "Bàn đón tiếp ghi sổ tang và thùng phúng viếng",
+      "Khách viếng thắp nhang hoặc dâng vòng hoa tưởng niệm"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Trưởng tộc hoặc ban tang lễ phát khăn tang cho các thành viên trong gia đình theo thứ bậc gia tộc.",
+      "Bước 2: Con cháu mặc đồ tang nghiêm trang túc trực hai bên bàn thờ linh để đáp lễ người đến viếng.",
+      "Bước 3: Khách viếng tiến vào thắp hương, cúi đầu mặc niệm; gia quyến cúi đầu cảm tạ (tục lạy tạ đáp từ).",
+      "Bước 4: Mời khách viếng dùng chén nước trà ấm, ghi lời chia buồn vào sổ tang lưu niệm."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Khóc tang theo lề lối, không khí trầm buồn, con cái túc trực nghiêm cẩn bên linh cữu.",
+      "mien_trung": "Rất mực cung kính, khách viếng thường đi kèm phong bì phúng điếu hoặc liễn tang tưởng nhớ.",
+      "mien_nam": "Không khí ấm áp, mở nhạc lễ hoặc kèn đồng để giảm bớt tang thương, khuyến khích con cháu giữ sức khỏe."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Thông tư 04/2011/TT-BVHTTDL & Nghị định 144/2021/NĐ-CP",
+      "dieu_khoan": "Điều 8 Thông tư 04/2011/TT-BVHTTDL",
+      "noi_dung_ap_dung": "Không mở nhạc tang quá 22 giờ đêm và trước 06 giờ sáng; âm lượng không vượt quá quy chuẩn tiếng ồn khu dân cư. Cấm lợi dụng đám tang để đánh bạc (chơi bài, bầu cua, xóc đĩa).",
+      "hinh_thuc_xu_ly": "Phạt tiền từ 1.000.000đ đến 2.000.000đ đối với hành vi đánh bạc trong đám tang; phạt vi phạm tiếng ồn theo Nghị định 45/2022/NĐ-CP.",
+      "phan_biet_phap_luat_phong_tuc": "Phúng viếng là nghĩa cử văn hóa tương trợ; các tệ nạn cờ bạc, hát hò ồn ào quá giờ là hành vi vi phạm pháp luật bị cấm."
+    },
+    "ton_trong_da_dang": "Nhiều gia đình theo nếp sống mới đề nghị 'không nhận phúng điếu, xin miễn nhận vòng hoa' để tránh lãng phí, điều này hoàn toàn đáng trân trọng."
+  },
+  {
+    "id": "NLVD-20",
+    "ten_tinh_huong": "Nghi thức Tang lễ theo truyền thống Phật giáo",
+    "ten_nghi_le": "Tang Lễ Phật Giáo (Cầu Siêu Tịnh Độ)",
+    "giai_doan_vong_doi": "Hậu sự & Tang chế",
+    "mo_ta_tinh_huong": "Người quá cố là Phật tử quy y Tam Bảo, gia đình muốn tổ chức tang lễ theo đúng tinh thần Phật giáo: Chay tịnh, tụng kinh niệm Phật, không sát sinh và không rải vàng mã.",
+    "y_nghia_van_hoa": "Giúp thần thức người mất nhẹ nhàng buông bỏ chấp niệm trần gian, nương theo tiếng kinh câu niệm Phật để vãng sanh về cõi Cực Lạc an lành.",
+    "dac_diem_nhan_dien": [
+      "Có ban hộ niệm tụng kinh A Di Đà, kinh Địa Tạng liên tục",
+      "Bàn thờ bài trí hình tượng Phật A Di Đà hoặc Phật Địa Tạng",
+      "Mâm cúng hoàn toàn bằng đồ chay thanh tịnh, không cúng rượu thịt sát sinh"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Thỉnh chư tôn đức tăng ni hoặc đạo tràng Phật tử đến khai kinh trợ niệm cho hương linh.",
+      "Bước 2: Gia quyến cùng chư tăng tụng kinh hồi hướng công đức, niệm danh hiệu 'Nam Mô A Di Đà Phật'.",
+      "Bước 3: Dâng mâm cỗ chay thanh tịnh, nước trà tinh khiết lên bàn thờ Phật và bàn thờ hương linh.",
+      "Bước 4: Thực hiện nghi thức quy y cho hương linh (nếu chưa quy y) và tiến hành lễ di quan, an táng/hỏa táng trong tiếng niệm Phật hòa bình."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Có nghi thức chèo đò giải oan, tụng kinh Dược Sư, cầu siêu tại gia hoặc tại chùa.",
+      "mien_trung": "Đậm chất nghi lễ thiền môn xứ Huế, âm hưởng tụng tán trang nghiêm, trầm bổng.",
+      "mien_nam": "Ban hộ niệm tụng niệm suốt ngày đêm, gia đình làm việc thiện phóng sinh, bố thí hồi hướng phước đức."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Tín ngưỡng, tôn giáo 2016 & Quyết định 308/2005/QĐ-TTg",
+      "dieu_khoan": "Điều 5 Luật Tín ngưỡng, tôn giáo 2016",
+      "noi_dung_ap_dung": "Bảo hộ quyền sinh hoạt tôn giáo hợp pháp của tín đồ Phật tử. Khuyến khích tổ chức đám tang văn minh, ăn chay tiết kiệm, hạn chế đốt vàng mã bảo vệ môi trường.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Nghi thức tôn giáo phù hợp giáo luật Giáo hội Phật giáo Việt Nam và pháp luật Nhà nước."
+    },
+    "ton_trong_da_dang": "Tôn trọng tuyệt đối tinh thần chay tịnh và nguyện vọng vãng sanh của người Phật tử."
+  },
+  {
+    "id": "NLVD-21",
+    "ten_tinh_huong": "Nghi thức Tang lễ theo truyền thống Công giáo",
+    "ten_nghi_le": "Tang Lễ Công Giáo (Thánh Lễ An Táng & Hy Vọng Phục Sinh)",
+    "giai_doan_vong_doi": "Hậu sự & Tang chế",
+    "mo_ta_tinh_huong": "Người mất là người theo đạo Công giáo, gia đình và ban hành giáo giáo xứ chuẩn bị nghi thức làm phép xác, canh thức cầu nguyện và đưa linh cữu vào Thánh đường cử hành Thánh lễ An táng.",
+    "y_nghia_van_hoa": "Niềm tin Kitô giáo: Sự chết không phải là kết thúc mà là sự biến đổi để bước vào sự sống đời đời trong Thiên Chúa; cộng đoàn hiệp thông cầu nguyện cho người đã khuất được sớm hưởng nhan Thánh Chúa.",
+    "dac_diem_nhan_dien": [
+      "Bàn thờ có Thánh giá Chúa Giêsu, cây nến Phục sinh, nến trắng và hoa huệ/hoa cúc trắng",
+      "Cộng đoàn đọc kinh nguyện, hát thánh ca trầm ấm",
+      "Cử hành Thánh lễ An táng trang trọng tại Thánh đường do Linh mục chủ sự"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Khi người thân qua đời, báo cha xứ và ban hành giáo đến làm phép thi hài và dâng lời kinh nguyện đầu tiên.",
+      "Bước 2: Tổ chức các giờ canh thức cầu nguyện tại gia đình: Giáo họ, hội đoàn luân phiên đến đọc kinh và hát thánh ca cầu nguyện cho linh hồn.",
+      "Bước 3: Lễ Di quan đưa linh cữu đến Nhà thờ: Linh mục cử hành Thánh lễ An táng và nghi thức tiễn biệt cuối cùng (rảy nước thánh, xông hương quan tài).",
+      "Bước 4: Đoàn đưa tang tiến ra đất thánh (nghĩa trang giáo xứ) hoặc trung tâm hỏa táng để làm nghi thức phó dâng thể xác vào lòng đất chờ ngày phục sinh."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Các giáo phận xứ đạo miền Bắc có tiếng chuông sầu (chuông tang) trầm hùng, kèn đồng phụ họa uy nghiêm.",
+      "mien_trung": "Lời kinh nguyện thiết tha, mộc mạc và gắn kết cộng đoàn giáo xứ sâu sắc.",
+      "mien_nam": "Cộng đồng xóm đạo tương trợ nhiệt tình, ban lễ tang giáo xứ lo toan chu đáo từ khâu tẩm liệm đến an táng."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Tín ngưỡng, tôn giáo 2016 & Hiến pháp 2013",
+      "dieu_khoan": "Điều 24 Hiến pháp 2013",
+      "noi_dung_ap_dung": "Bảo đảm quyền tự do cử hành nghi lễ tôn giáo tại cơ sở tôn giáo hợp pháp và tại gia đình tín đồ.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Phụng vụ Công giáo theo Giáo luật Tòa Thánh kết hợp hài hòa với văn hóa kính hiếu tổ tiên người Việt."
+    },
+    "ton_trong_da_dang": "Thái độ trung lập, tôn trọng sâu sắc đức tin phục sinh của người Công giáo."
+  },
+  {
+    "id": "NLVD-22",
+    "ten_tinh_huong": "Nghi thức Di Quan và cất đám đưa tang",
+    "ten_nghi_le": "Lễ Di Quan & Khiển Điện",
+    "giai_doan_vong_doi": "Hậu sự & Tang chế",
+    "mo_ta_tinh_huong": "Đến giờ hoàng đạo cất đám di quan, gia đình chuẩn bị lễ cúng khiển điện (cúng bái quan) và chuyển linh cữu ra xe tang để khởi hành đến nghĩa trang hoặc nơi hỏa táng.",
+    "y_nghia_van_hoa": "Giây phút rời xa mái nhà thân yêu gắn bó cả cuộc đời để đi đến nơi an nghỉ vĩnh hằng; con cháu quỳ lạy tiễn biệt trong niềm thương tiếc khôn nguôi.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra vào sáng sớm hoặc giờ hoàng đạo",
+      "Nghi thức bái quan của đội đạo tì",
+      "Đoàn xe tang lăn bánh dẫn đầu là xe chở di ảnh và bàn thờ linh"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Ban tang lễ cử hành lễ Khiển điện (cúng chén rượu chia tay trước khi cất đám).",
+      "Bước 2: Đội đạo tì làm lễ bái quan cẩn trọng, nâng linh cữu di chuyển ra khỏi cửa nhà (đầu quan tài hướng ra trước).",
+      "Bước 3: Trưởng nam cầm gậy tang (nếu theo nếp cũ) hoặc rước di ảnh đi trước, con cháu và họ hàng đi sau xe tang tiễn đưa.",
+      "Bước 4: Đoàn xe tang di chuyển trật tự trên đường, tuân thủ luật lệ an toàn giao thông."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nhiều vùng có tục người con trai cả đi giật lùi trước linh cữu (tượng trưng cho sự không nỡ rời xa cha mẹ).",
+      "mien_trung": "Đi sau linh cữu trong trật tự im lặng trang nghiêm.",
+      "mien_nam": "Đi theo xe tang trong tinh thần tống tiễn người thân về cõi Phật/Chúa thanh nhàn."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Trật tự an toàn giao thông đường bộ & Quyết định 308/2005/QĐ-TTg",
+      "dieu_khoan": "Quy định cấm rải vàng mã, tiền polyme trên đường giao thông",
+      "noi_dung_ap_dung": "Tuyệt đối không rải tiền Việt Nam (tiền polyme, tiền xu) hoặc rải tiền vàng mã tràn lan trên đường giao thông gây mất an toàn và ô nhiễm môi trường.",
+      "hinh_thuc_xu_ly": "Phạt tiền từ 1.000.000đ đến 2.000.000đ theo Nghị định 100/2019/NĐ-CP (sửa đổi Nghị định 123/2021) đối với hành vi rải đinh, vật sắc nhọn, rải tiền vàng mã cản trở giao thông; hành vi hủy hoại tiền tệ có thể bị xử lý theo Điều 31 Nghị định 88/2019/NĐ-CP (phạt từ 10 - 15 triệu đồng).",
+      "phan_biet_phap_luat_phong_tuc": "Tục rải vàng mã là hủ tục lạc hậu; việc bảo đảm an toàn giao thông và bảo vệ đồng tiền quốc gia là luật pháp bắt buộc."
+    },
+    "ton_trong_da_dang": "Khuyến khích loại bỏ hoàn toàn việc rải vàng mã trên đường để xây dựng đô thị văn minh, sạch đẹp."
+  },
+  {
+    "id": "NLVD-23",
+    "ten_tinh_huong": "Nghi thức Hạ Huyệt hoặc Hỏa Táng văn minh",
+    "ten_nghi_le": "Lễ Hạ Huyệt / Hỏa Táng An Nghỉ",
+    "giai_doan_vong_doi": "Hậu sự & Tang chế",
+    "mo_ta_tinh_huong": "Linh cữu đến nghĩa trang công viên hoặc trung tâm hỏa táng, gia đình thực hiện nghi thức hạ huyệt hoặc đưa linh cữu vào đài hỏa táng, băn khoăn về quy trình và bảo vệ môi trường.",
+    "y_nghia_van_hoa": "'Nắm đất gửi lại đất mẹ' - con người từ cát bụi trở về với cát bụi; nghi thức tột cùng hoàn tất phần việc thể xác, mong người mất được mồ yên mả đẹp hoặc sớm thăng hoa tịnh độ.",
+    "dac_diem_nhan_dien": [
+      "Tại huyệt mộ hoặc phòng hành lễ đài hỏa táng",
+      "Người thân ném nắm đất đầu tiên hoặc hoa trắng tiễn biệt",
+      "Lời nguyện chúc an nghỉ ngàn thu"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Đặt quan tài ngay ngắn trước huyệt mộ hoặc trên bệ chuyển hỏa táng, thắp nén hương vĩnh biệt.",
+      "Bước 2: Nếu địa táng: Hạ quan tài xuống đáy huyệt đúng hướng phong thủy, thân nhân đi quanh huyệt ném từng nắm đất tiễn biệt.",
+      "Bước 3: Nếu hỏa táng: Thân nhân đứng nghiêm trang cúi đầu chào từ biệt khi quan tài trượt vào buồng hỏa táng văn minh.",
+      "Bước 4: Sau khi hoàn tất, rước di ảnh và bát hương về lại tư gia để làm lễ an sàng (an vị hương linh)."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nhiều vùng vẫn duy trì tục địa táng (sau 3-5 năm cải táng sang cát), nhưng xu hướng hỏa táng đang ngày càng tăng mạnh.",
+      "mien_trung": "Thường chọn nghĩa trang đồi cát cao ráo, xây cất lăng mộ kiên cố.",
+      "mien_nam": "Tỷ lệ hỏa táng rất cao, tro cốt gửi vào chùa hoặc nhà lưu giữ tro cốt trang nghiêm, sạch sẽ."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Quyết định 308/2005/QĐ-TTg & Nghị định 23/2016/NĐ-CP về quản lý nghĩa trang",
+      "dieu_khoan": "Điều 14 Nghị định 23/2016/NĐ-CP",
+      "noi_dung_ap_dung": "Mai táng phải được thực hiện trong nghĩa trang đã được quy hoạch hợp pháp. Nhà nước khuyến khích sử dụng hình thức táng mới văn minh, tiến bộ như hỏa táng nhằm tiết kiệm đất và bảo vệ môi trường.",
+      "hinh_thuc_xu_ly": "Nghiêm cấm chôn cất ngoài quy hoạch nghĩa trang hoặc gây ô nhiễm nguồn nước ngầm sinh hoạt.",
+      "phan_biet_phap_luat_phong_tuc": "Hình thức an táng do gia đình chọn nhưng vị trí an táng phải tuyệt đối tuân thủ quy hoạch đất đai của Nhà nước."
+    },
+    "ton_trong_da_dang": "Ủng hộ và khuyến khích các hình thức táng sinh thái văn minh (hỏa táng, thủy táng, táng cây xanh)."
+  },
+  {
+    "id": "NLVD-24",
+    "ten_tinh_huong": "Cúng cơm Tuần Thất và Lễ 49 ngày (Chung Thất)",
+    "ten_nghi_le": "Lễ Tuần Thất & Cúng 49 Ngày (Chung Thất)",
+    "giai_doan_vong_doi": "Tế tự & Tưởng nhớ cội nguồn",
+    "mo_ta_tinh_huong": "Trong 49 ngày sau khi người thân qua đời, gia đình làm lễ cúng cơm mỗi tuần (sơ thất, nhị thất... đến thất thất 49 ngày), băn khoăn về mâm cúng và ý nghĩa văn hóa.",
+    "y_nghia_van_hoa": "Theo quan niệm dân gian và Phật giáo, trong 49 ngày thần thức người mất trải qua các giai đoạn phán xét nghiệp lực; con cháu cúng cơm chay, tụng kinh tạo phước để trợ duyên cho linh hồn siêu sinh.",
+    "dac_diem_nhan_dien": [
+      "Cúng mỗi tuần 1 lần (chu kỳ 7 ngày) đến ngày thứ 49",
+      "Bàn thờ linh luôn thắp hương, đèn sáng",
+      "Mâm cúng chay tịnh hoặc mâm cơm gia đình thanh đạm"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Tính đúng ngày thứ 49 kể từ ngày người thân qua đời (tính cả ngày mất).",
+      "Bước 2: Dọn dẹp bàn thờ linh sạch sẽ, chuẩn bị hoa cúc tươi, mâm cơm chay thanh tịnh, đĩa trái cây tươi.",
+      "Bước 3: Gia đình thắp hương đọc bài văn khấn cúng Chung thất, cầu mong vong linh an nhàn nơi cõi vĩnh hằng.",
+      "Bước 4: Con cháu cùng nhau tụng một thời kinh ngắn (kinh Vu Lan hoặc kinh A Di Đà) hoặc đọc kinh cầu nguyện."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nghi lễ cúng 49 ngày rất trang trọng, có thể mời thầy cúng hoặc nhà chùa làm lễ quy y vong.",
+      "mien_trung": "Gia quyến thường lên chùa dâng sớ cầu an, cầu siêu cho hương linh.",
+      "mien_nam": "Cúng 49 ngày ấm cúng, làm cơm chay đãi họ hàng và làm việc thiện bố thí cứu giúp người nghèo."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Tập quán tín ngưỡng gia đình",
+      "dieu_khoan": "Không áp dụng",
+      "noi_dung_ap_dung": "Hoạt động tâm linh gia đình tự nguyện.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Tín ngưỡng dân gian mang tính giải tỏa tâm lý và đạo hiếu."
+    },
+    "ton_trong_da_dang": "Người Công giáo thường xin dâng lễ giỗ 1 tháng (30 ngày) hoặc 100 ngày tại Nhà thờ, không bắt buộc làm lễ 49 ngày."
+  },
+  {
+    "id": "NLVD-25",
+    "ten_tinh_huong": "Lễ 100 ngày (Tốt Khốc - Thôi khóc) và an vị di ảnh",
+    "ten_nghi_le": "Lễ 100 Ngày (Tốt Khốc)",
+    "giai_doan_vong_doi": "Tế tự & Tưởng nhớ cội nguồn",
+    "mo_ta_tinh_huong": "Gia đình làm lễ 100 ngày cho người đã khuất, băn khoăn về ý nghĩa tên gọi 'Tốt khốc' và cách đưa cuộc sống gia đình trở lại bình thường.",
+    "y_nghia_van_hoa": "'Tốt khốc' nghĩa là thôi khóc; con cháu nén đau thương, ngừng việc than khóc bi lụy để người ra đi thanh thản siêu thoát và người sống tiếp tục nỗ lực lao động, học tập.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra đúng ngày thứ 100 sau khi người thân mất",
+      "Mâm cỗ cúng thanh tịnh, ấm cúng",
+      "Không khí gia đình chuyển từ bi thương sang tưởng nhớ nhẹ nhàng"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Lau dọn bàn thờ sạch sẽ, dâng hoa tươi, đĩa xôi nếp, canh cơm thường nhật.",
+      "Bước 2: Gia trưởng thắp hương, đọc văn khấn Lễ Tốt khốc tạ ơn trời đất tiên tổ.",
+      "Bước 3: Đốt một lượng nhỏ vàng mã tượng trưng, hóa sớ lễ cúng (nếu có).",
+      "Bước 4: Cả gia đình quây quần dùng bữa cơm, động viên nhau vượt qua mất mát để tiếp tục sinh hoạt bình thường."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nhiều gia đình làm lễ mời anh em họ hàng thân thiết đến dùng bữa cơm giỗ 100 ngày.",
+      "mien_trung": "Thắp nén hương thành kính và cúng mâm cơm đạm bạc.",
+      "mien_nam": "Làm lễ gọn nhẹ, nhắc nhở con cháu giữ tâm an lành."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Tập quán đời sống gia đình",
+      "dieu_khoan": "Không áp dụng",
+      "noi_dung_ap_dung": "Phong tục văn hóa dân gian.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Phương pháp tâm lý liệu pháp dân gian giúp chữa lành nỗi đau mất mát."
+    },
+    "ton_trong_da_dang": "Lấy sự chân thành tưởng nhớ làm trọng, không tổ chức linh đình ăn uống tốn kém."
+  },
+  {
+    "id": "NLVD-26",
+    "ten_tinh_huong": "Lễ Giỗ Đầu (Tiểu Tường) tròn 1 năm ngày mất",
+    "ten_nghi_le": "Lễ Giỗ Đầu (Tiểu Tường)",
+    "giai_doan_vong_doi": "Tế tự & Tưởng nhớ cội nguồn",
+    "mo_ta_tinh_huong": "Tròn 1 năm ngày mất của cha/mẹ, gia đình chuẩn bị cúng ngày giỗ đầu, băn khoăn về tính ngày âm lịch, mâm cúng Tiên thường và Chính giỗ.",
+    "y_nghia_van_hoa": "Giỗ đầu là lễ giỗ quan trọng còn trong thời kỳ tang chế (chưa xả tang); thể hiện nỗi nhớ nhung sâu sắc và lòng hiếu thảo của con cháu đối với bậc sinh thành.",
+    "dac_diem_nhan_dien": [
+      "Tính theo ngày mất âm lịch tròn 1 năm",
+      "Con cháu vẫn mang tang phục (hoặc gắn băng tang nhỏ)",
+      "Có lễ Tiên thường vào chiều hôm trước và Lễ Chính giỗ vào trưa ngày giỗ"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Chiều ngày hôm trước: Làm Lễ Tiên thường (cúng cáo yết mời hương linh về ngự).",
+      "Bước 2: Trưa ngày chính giỗ: Dâng mâm cỗ mặn hoặc chay thịnh soạn lên bàn thờ gia tiên trước 12h trưa.",
+      "Bước 3: Gia trưởng thắp hương, đọc bài văn khấn cúng giỗ đầu, con cháu thành kính vái lạy.",
+      "Bước 4: Đợi tuần nhang tàn, vái tạ và con cháu sum họp thụ lộc, cùng nhau ôn lại lời răn dạy của người đã khuất."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Rất trang trọng, mâm cỗ 4 bát 6 đĩa (măng miến, nem rán, gà luộc lá chanh).",
+      "mien_trung": "Mâm cỗ nấu theo khẩu vị người quá cố lúc sinh thời, có đĩa xôi nếp và hoa tươi.",
+      "mien_nam": "Mâm cỗ có món canh khổ qua dồn thịt, thịt kho tàu hột vịt, không khí sum vầy đầm ấm."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Quy chế nếp sống văn minh Quyết định 308/2005/QĐ-TTg",
+      "dieu_khoan": "Quy chế thực hiện nếp sống văn minh",
+      "noi_dung_ap_dung": "Khuyến khích tổ chức cúng giỗ trong nội bộ gia đình, dòng họ; tiết kiệm, trang trọng, không lợi dụng đám giỗ để phô trương ăn uống linh đình lãng phí.",
+      "hinh_thuc_xu_ly": "Không có chế tài xử phạt giỗ chạp; chỉ xử lý nếu vi phạm trật tự công cộng hoặc đánh bạc.",
+      "phan_biet_phap_luat_phong_tuc": "Cúng giỗ là nét đẹp truyền thống đạo hiếu gia đình Việt Nam."
+    },
+    "ton_trong_da_dang": "Mâm cỗ to hay nhỏ không quan trọng bằng tấm lòng thành kính và sự đoàn kết giữa các thành viên trong gia đình."
+  },
+  {
+    "id": "NLVD-27",
+    "ten_tinh_huong": "Lễ Giỗ Hết (Đại Tường) tròn 2 năm và Lễ Xả Tang",
+    "ten_nghi_le": "Lễ Giỗ Hết (Đại Tường & Trừ Phục)",
+    "giai_doan_vong_doi": "Tế tự & Tưởng nhớ cội nguồn",
+    "mo_ta_tinh_huong": "Tròn 2 năm ngày mất, gia đình tổ chức lễ giỗ hết (Đại tường) và làm thủ tục xả tang (trừ phục) cho con cháu để hết thời gian chịu tang.",
+    "y_nghia_van_hoa": "Đánh dấu sự kết thúc của thời kỳ đại tang; giải tỏa khăn tang, đưa linh vị người quá cố nhập vào bàn thờ tổ tiên chung và con cháu chính thức trở lại cuộc sống bình thường.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra tròn 2 năm ngày mất (theo lịch âm)",
+      "Nghi thức đốt khăn tang (xả tang)",
+      "Chuyển bát nhang linh nhập vào bàn thờ gia tiên chung"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Sắp mâm cỗ cúng trang trọng tưởng nhớ bậc sinh thành.",
+      "Bước 2: Cử hành lễ giỗ hết, con cháu thắp hương kính lạy tạ ơn công đức nuôi nấng.",
+      "Bước 3: Thực hiện nghi thức Trừ phục (xả tang): Gom khăn tang áo tang đem hóa đốt, cầu chúc gia đình từ nay được may mắn, hanh thông.",
+      "Bước 4: Nhập bàn thờ linh vào bàn thờ chính của gia đình."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Nghi thức trừ phục rất chu đáo, sau lễ này con cái mới được bàn tính chuyện cưới hỏi.",
+      "mien_trung": "Thành tâm, mộc mạc và gắn liền với đạo lý hiếu kính.",
+      "mien_nam": "Sau 2 năm xả tang, gia đình vui vẻ chúc tụng nhau làm ăn thuận buồm xuôi gió."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Tập quán văn hóa dân tộc",
+      "dieu_khoan": "Không áp dụng",
+      "noi_dung_ap_dung": "Phong tục gia tộc truyền thống.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Phong tục thuần túy thể hiện giới hạn thời gian chịu hiếu đạo theo phong tục cổ truyền."
+    },
+    "ton_trong_da_dang": "Thời hiện đại, nhiều gia đình xin phép xả tang sớm hơn (ngay sau 49 ngày hoặc 100 ngày) để con cháu đi làm xa hoặc lập gia đình, điều này hoàn toàn được xã hội cảm thông và chấp nhận."
+  },
+  {
+    "id": "NLVD-28",
+    "ten_tinh_huong": "Lễ Cúng Giỗ Thường (Cát Kỵ) hàng năm",
+    "ten_nghi_le": "Lễ Giỗ Thường (Cát Kỵ Hàng Năm)",
+    "giai_doan_vong_doi": "Tế tự & Tưởng nhớ cội nguồn",
+    "mo_ta_tinh_huong": "Sau khi đã xả tang, hàng năm cứ đến ngày mất, gia đình con cháu tề tựu làm mâm cơm cúng giỗ thường niên để tưởng nhớ ông bà tổ tiên.",
+    "y_nghia_van_hoa": "Duy trì sợi dây gắn kết huyết thống qua nhiều thế hệ; con cháu tụ họp đông đủ, thắt chặt tình cảm gia tộc và giáo dục thế hệ trẻ về cội nguồn 'cây có cội, nước có nguồn'.",
+    "dac_diem_nhan_dien": [
+      "Tổ chức hàng năm đúng ngày giỗ âm lịch",
+      "Không còn tang phục u buồn mà là không khí sum vầy ấm cúng",
+      "Mâm cỗ truyền thống dâng cúng gia tiên"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Con cháu cùng nhau lau dọn bàn thờ, chuẩn bị nguyên liệu nấu các món ăn truyền thống.",
+      "Bước 2: Bày mâm cỗ cúng gia tiên trước ban trưa, thắp nhang và đèn nến sáng.",
+      "Bước 3: Người lớn tuổi nhất trong nhà đọc bài văn khấn cúng giỗ thường niên, nhắc nhớ công đức tổ tiên.",
+      "Bước 4: Cả đại gia đình quây quần bên mâm cơm ấm cúng, trò chuyện, chia sẻ công việc làm ăn của con cháu."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Mâm cỗ mặn cầu kỳ với canh măng, miến, nem rán, thịt gà; chú trọng mời các bậc bề trên trong dòng họ.",
+      "mien_trung": "Ấm cúng, mâm cơm đậm đà hương vị miền Trung, con cháu đi làm ăn xa cố gắng sắp xếp về dự.",
+      "mien_nam": "Đám giỗ là ngày hội sum họp vui tươi, mâm cỗ đầy ắp tình thương, mời cả láng giềng lối xóm thân thiết."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": false,
+      "ten_van_ban": "Nét đẹp truyền thống gia đình Việt Nam",
+      "dieu_khoan": "Không áp dụng",
+      "noi_dung_ap_dung": "Đạo lý uống nước nhớ nguồn được khuyến khích gìn giữ.",
+      "hinh_thuc_xu_ly": "Không áp dụng",
+      "phan_biet_phap_luat_phong_tuc": "Sinh hoạt văn hóa gia đình lành mạnh."
+    },
+    "ton_trong_da_dang": "Tôn trọng các hình thức giỗ: Giỗ chay theo Phật giáo, làm bữa cơm ấm cúng theo phong cách đời sống mới."
+  },
+  {
+    "id": "NLVD-29",
+    "ten_tinh_huong": "Phong tục Sang Cát (Cải Táng) mồ mả cổ truyền",
+    "ten_nghi_le": "Lễ Cải Táng (Sang Cát / Tắm Cốt)",
+    "giai_doan_vong_doi": "Tế tự & Tưởng nhớ cội nguồn",
+    "mo_ta_tinh_huong": "Sau 3 đến 5 năm chôn cất, gia đình miền Bắc chuẩn bị đào mộ sang cát, chuyển hài cốt vào tiểu sành để an táng vĩnh viễn, băn khoăn về thời điểm và quy định pháp luật.",
+    "y_nghia_van_hoa": "Mong muốn người thân được 'nhà mới' sạch sẽ, vĩnh viễn mồ yên mả đẹp; hoàn tất trọn vẹn trách nhiệm phụng dưỡng phần thể xác của người đã khuất.",
+    "dac_diem_nhan_dien": [
+      "Thực hiện vào ban đêm mùa đông (từ tháng 10 đến tháng 12 âm lịch)",
+      "Đào mộ, rửa sạch xương cốt bằng nước thơm (rượu gừng, ngũ vị hương)",
+      "Xếp xương vào tiểu sành và quách sứ chôn cất nơi vĩnh hằng"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Làm lễ cúng thần linh thổ địa nơi nghĩa trang xin phép đào mộ.",
+      "Bước 2: Đội chuyên môn mở ván quan tài cẩn thận, nhặt từng phần xương cốt rửa sạch trong chậu nước thơm ngũ vị.",
+      "Bước 3: Xếp xương cốt ngay ngắn vào tiểu sành theo đúng thứ tự giải phẫu người, bọc gấm đỏ.",
+      "Bước 4: Đặt tiểu vào quách lớn, di chuyển đến khu mộ cải táng vĩnh cửu, lấp đất xây mộ kiên cố."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Là phong tục truyền thống rất đậm nét và bắt buộc ở nông thôn đồng bằng Bắc Bộ xưa.",
+      "mien_trung": "Ít khi sang cát, thường chôn cất một lần (nhất táng) xây mộ kiên cố vĩnh viễn.",
+      "mien_nam": "Hầu như không có tục sang cát cải táng; người dân chôn cất một lần hoặc hỏa táng sạch sẽ."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Bộ luật Hình sự 2015 & Thông tư 02/2009/TT-BYT",
+      "dieu_khoan": "Điều 319 Bộ luật Hình sự 2015; Quy chuẩn y tế Thông tư 02/2009/TT-BYT",
+      "noi_dung_ap_dung": "Việc cải táng phải do người thân trong gia đình quyết định và đăng ký với ban quản lý nghĩa trang địa phương. Nghiêm cấm hành vi đào phá mồ mả trái phép (Tội xâm phạm mồ mả, hài cốt). Chỉ cải táng khi thi thể đã phân hủy hoàn toàn để đảm bảo vệ sinh môi trường.",
+      "hinh_thuc_xu_ly": "Phạt tù từ 02 năm đến 07 năm nếu có hành vi xâm phạm mồ mả, hài cốt trái phép theo Điều 319 BLHS.",
+      "phan_biet_phap_luat_phong_tuc": "Cải táng hợp pháp của gia đình được pháp luật tôn trọng nếu tuân thủ quy chuẩn y tế và quản lý nghĩa trang."
+    },
+    "ton_trong_da_dang": "Hiện nay Nhà nước và các nhà văn hóa khuyến khích người dân sử dụng hình thức hỏa táng ngay từ đầu để tránh phải thực hiện nghi thức sang cát vất vả và bảo vệ môi trường."
+  },
+  {
+    "id": "NLVD-30",
+    "ten_tinh_huong": "Lễ Mừng Thọ người cao tuổi (70, 80, 90 tuổi) trong gia đình",
+    "ten_nghi_le": "Lễ Mừng Thọ (Chúc Thọ Người Cao Tuổi)",
+    "giai_doan_vong_doi": "Đạo hiếu & Tôn vinh",
+    "mo_ta_tinh_huong": "Ông bà trong gia đình thượng thọ 70 hoặc 80 tuổi, con cháu phối hợp cùng Hội Người cao tuổi địa phương tổ chức lễ mừng thọ vào dịp đầu xuân năm mới.",
+    "y_nghia_van_hoa": "'Kính lão đắc thọ' - tôn vinh công lao sinh thành dưỡng dục của ông bà, cha mẹ; niềm tự hào về đại phúc gia đình có người sống trường thọ, gắn kết tình cảm các thế hệ.",
+    "dac_diem_nhan_dien": [
+      "Diễn ra vào dịp Tết Nguyên đán hoặc ngày sinh nhật của cụ",
+      "Người thọ mặc áo gấm mừng thọ màu đỏ hoặc vàng",
+      "Con cháu quây quần chúc thọ, dâng trà, chụp ảnh kỷ niệm gia tộc"
+    ],
+    "cac_buoc_thuc_hien": [
+      "Bước 1: Ban đại diện Hội Người cao tuổi xã/phường trao bằng mừng thọ và quà tặng của Nhà nước.",
+      "Bước 2: Gia đình tổ chức tiệc mừng thọ tại nhà: Cụ ông, cụ bà ngồi nơi trang trọng nhất giữa sảnh nhà.",
+      "Bước 3: Con cháu lần lượt tiến lên dâng trà, dâng bánh mừng thọ, nói lời chúc thọ và mừng tuổi ông bà.",
+      "Bước 4: Cả đại gia đình chụp bức ảnh lưu niệm đầy đủ các thế hệ (tam đại, tứ đại đồng đường) và chung vui bữa tiệc ấm áp."
+    ],
+    "su_khac_biet_vung_mien": {
+      "mien_bac": "Tổ chức rất long trọng tại nhà văn hóa thôn/làng, sau đó về nhà làm cỗ mừng thọ.",
+      "mien_trung": "Con cháu dâng rượu thọ, kính cẩn đọc thơ ca ngợi công đức cha mẹ.",
+      "mien_nam": "Không khí vui tươi rộn rã, con cháu tặng hoa, bánh kem và quà thiết thực chăm sóc sức khỏe."
+    },
+    "can_cu_phap_ly": {
+      "co_lien_quan": true,
+      "ten_van_ban": "Luật Người cao tuổi 2009 & Thông tư 06/2012/TT-BVHTTDL",
+      "dieu_khoan": "Điều 21 Luật Người cao tuổi 2009",
+      "noi_dung_ap_dung": "Người thọ 70, 75, 80, 85, 90, 95 tuổi và 100 tuổi trở lên được chính quyền và Hội Người cao tuổi tổ chức chúc thọ, mừng thọ theo quy định của pháp luật. Khuyến khích con cháu phụng dưỡng chu đáo.",
+      "hinh_thuc_xu_ly": "Chính sách nhà nước tôn vinh người cao tuổi; nghiêm cấm hành vi ngược đãi, bỏ bê cha mẹ già.",
+      "phan_biet_phap_luat_phong_tuc": "Lễ mừng thọ kết hợp hài hòa giữa chính sách tôn vinh của Nhà nước và đạo hiếu gia đình."
+    },
+    "ton_trong_da_dang": "Tổ chức mừng thọ cốt ở sự chăm sóc sức khỏe, niềm vui tinh thần thực sự cho người già, tránh bày vẽ cỗ bàn phô trương khiến người cao tuổi mệt mỏi."
+  }
+]

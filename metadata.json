@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm Nang Nghi Lễ Vòng Đời",
+  "description": "Hướng dẫn nghi thức cưới hỏi, tang lễ, giỗ chạp theo tập quán từng vùng miền Bắc - Trung - Nam, giữ thái độ trung lập với mọi tín ngưỡng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
